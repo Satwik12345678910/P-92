@@ -1,0 +1,38 @@
+body
+{
+	background:red;
+	text-align: center;
+	margin-top: 100px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(52, 218, 60);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(245, 4, 4);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
